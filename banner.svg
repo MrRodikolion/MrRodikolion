@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">MrRodikolion — инженерная лаборатория</title>
+<desc id="desc">Робототехника, веб, компьютерное зрение и ИИ. Графитовый фон и голубые линии схемы.</desc>
+<defs>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#223145" stroke-width=".6"/></pattern>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1522"/><stop offset="1" stop-color="#16263b"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<path d="M0 310H680L710 280H1200" fill="none" stroke="#294763" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="48" y="44" width="4" height="20" rx="2" fill="#74d9ee"/>
+<text x="66" y="60" fill="#8baac1" font-size="15" letter-spacing="3">ИНЖЕНЕРНАЯ ЛАБОРАТОРИЯ</text>
+<text x="46" y="143" fill="#eff6ff" font-size="63" font-weight="700" letter-spacing="-2">MrRodikolion</text>
+<text x="50" y="190" fill="#b8cfdf" font-size="21">Робототехника · Веб · Компьютерное зрение · ИИ</text>
+<text x="50" y="251" fill="#7794ac" font-size="17">Устройства. Код. Эксперименты.</text>
+</g>
+<g fill="none" stroke="#345774" stroke-width="2">
+<path d="M872 98H1034V142H1110M872 206H936V142H1034M1034 142V258H1142M872 98V55H1142"/>
+<rect x="846" y="117" width="52" height="52" rx="9" fill="#152a3e" stroke="#70ccdf"/>
+<path d="M860 133H884V155H860Z M866 127V133M878 127V133M866 155V161M878 155V161M854 139H860M884 139H890M854 150H860M884 150H890" stroke="#70ccdf"/>
+<circle cx="1034" cy="142" r="6" fill="#91deed" stroke="#91deed"/>
+<circle cx="1142" cy="55" r="4" fill="#dcb876" stroke="#dcb876"/>
+<circle cx="1110" cy="142" r="4" fill="#345774"/>
+<circle cx="1142" cy="258" r="4" fill="#345774"/>
+<circle cx="872" cy="206" r="4" fill="#345774"/>
+</g>
+<g font-family="Consolas,monospace" font-size="12" fill="#7f9fb8">
+<text x="1082" y="46">DEVICE</text><text x="1060" y="130">VISION</text><text x="1080" y="247">WEB / AI</text>
+</g>
+</svg>
